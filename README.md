@@ -6,5 +6,5 @@
 
 🔮 Together, we'll weave data magic and turn raw data into actionable insights. Get ready for transformative results! ✨🔮
 
-📫 Connect with me on GitHub:(https://github.com/Elhassan-Othman) to explore my captivating portfolio. Let's create something extraordinary! 💡
+ Let's create something extraordinary! 💡
 
